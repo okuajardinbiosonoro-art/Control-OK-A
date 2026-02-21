@@ -1,5 +1,11 @@
 # Control del Jardín Okúa
 
+> ⚠️ **CKv1 (Legacy/Serial)**
+>
+> Este repositorio corresponde a la versión **CKv1** y quedó **congelado** en el release/tag **v1.0.0**.
+> - Estado: **solo mantenimiento** (fixes críticos / estabilidad).
+> - Desarrollo nuevo: **CKv2** → <URL_DEL_REPO_CKv2>
+
 Aplicación de escritorio para Windows que actúa como puente **Serial -> MIDI** para la instalación interactiva Okúa.
 
 Este README está orientado a desarrollo: explica estructura interna, flujo de datos, modelo de hilos, configuración, empaquetado y límites actuales del código.
