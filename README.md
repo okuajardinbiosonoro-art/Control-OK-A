@@ -10,6 +10,13 @@ Aplicación de escritorio para Windows que actúa como puente **Serial -> MIDI**
 
 Este README está orientado a desarrollo: explica estructura interna, flujo de datos, modelo de hilos, configuración, empaquetado y límites actuales del código.
 
+## Estado del repositorio
+
+- **Versión:** CKv1 (Legacy/Serial)
+- **Release congelado:** `v1.0.0`
+- **Política:** no se aceptan features nuevas en CKv1; solo correcciones necesarias para operación.
+- **Siguiente versión:** CKv2 → <URL_DEL_REPO_CKv2>
+
 ## 1. Objetivo técnico
 
 - Recibir bytes MIDI por puerto serial desde nodos "Maestro".
